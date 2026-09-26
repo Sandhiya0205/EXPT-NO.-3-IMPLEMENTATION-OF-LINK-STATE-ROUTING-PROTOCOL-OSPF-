@@ -71,7 +71,7 @@ You can also check connectivity between the PCs on different networks to ensure 
 
 
 # OUTPUT
-<img width="1531" height="874" alt="image" src="https://github.com/user-attachments/assets/141eb1b2-bbd0-41eb-885a-aca1f6472871" />
+
 <img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/5d7f35f2-4684-4eb9-abbf-b8a47f0f64e0" />
 
 
