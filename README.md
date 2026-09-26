@@ -15,7 +15,7 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 
 # NETWORK DIAGRAM
 <img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/d44630fb-fa82-4b8a-b9bf-8caa4bf12524" />
-# PROCEDURE:
+## PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
 STEP 2: Drag two 2900 Switches, two Cisco 1800 Routers, four PC Terminals from tool barand drop it in work area.
