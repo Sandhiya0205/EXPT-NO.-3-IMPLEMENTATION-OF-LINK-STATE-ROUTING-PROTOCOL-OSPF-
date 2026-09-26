@@ -16,6 +16,7 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 # NETWORK DIAGRAM
 <img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/d44630fb-fa82-4b8a-b9bf-8caa4bf12524" />
 
+
  
 
 
@@ -26,7 +27,8 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 
 # OUTPUT
 
-<img width="1600" height="784" alt="image" src="https://github.com/user-attachments/assets/5d7f35f2-4684-4eb9-abbf-b8a47f0f64e0" />
+<img width="1600" height="939" alt="image" src="https://github.com/user-attachments/assets/1cfe215a-18dc-4b69-a292-1e29a41801ea" />
+
 
 
 
